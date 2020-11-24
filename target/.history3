@@ -1,0 +1,4 @@
+1606153266935:set name := "Hello-Akka"
+1606153326912:set scalaVersion := "2.11.7"
+1606153340288:session save
+1606153354529:exit
